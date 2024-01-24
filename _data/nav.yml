@@ -1,0 +1,14 @@
+menu:
+  - title: About
+    section: about
+    link:
+  - title: Services
+    section: services
+    link:
+  - title: Portfolio
+    section: portfolio
+    link:
+  - title: Contact
+    section: contact
+    link:
+  
